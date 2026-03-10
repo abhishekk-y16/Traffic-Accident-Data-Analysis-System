@@ -1,4 +1,4 @@
-# 🚦 Traffic Accident Data Analysis System
+# 🚦 Traffic Accident Data Analysis System 
 
 A comprehensive analytical framework for exploring, visualising, and predicting traffic accident severity using the **US-Accidents** dataset (~7.7 million records, Feb 2016 – Mar 2023).
 
