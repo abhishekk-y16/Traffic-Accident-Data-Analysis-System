@@ -1,0 +1,5 @@
+# Large dataset - download from Kaggle instead
+data/US_Accidents_March23.csv
+
+# Python cache
+src/__pycache__/
